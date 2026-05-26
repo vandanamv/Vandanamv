@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="mailto:vandana.dsu@gmail.com">
-    <img src="https://img.shields.io/badge/mail-me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" />
+    <img src="https://img.shields.io/badge/vandana.dsu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="vandana.dsu@gmail.com" />
   </a>
   <a href="https://github.com/vandanamv">
     <img src="https://img.shields.io/badge/github-vandanamv-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -78,6 +78,49 @@ const vandana = {
 
 ---
 
+### experience
+
+<table width="100%">
+  <tr>
+    <td width="30%" valign="top">
+      <b>Lumen Technologies</b><br />
+      <sub>Software Applications Engineer<br />Feb 2025 - Present</sub>
+    </td>
+    <td valign="top">
+      Working on SAP HANA Cloud migration, AI-assisted development workflows, ABAP documentation, and an AI-powered SAP assistant for workflow automation.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Full Circle Realty Co.</b><br />
+      <sub>Full Stack Developer Intern<br />Jan 2025 - Feb 2025</sub>
+    </td>
+    <td valign="top">
+      Built React Native + TypeScript interfaces from Figma designs, optimized mobile UI performance, and developed a chatbot interface for better engagement.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Infraware.dev</b><br />
+      <sub>DevOps Intern</sub>
+    </td>
+    <td valign="top">
+      Automated 3-tier application deployments, deployed Dockerized WordPress with HTTPS, and created Ansible workflows for operational tasks.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Adwitiyah Technology Services</b><br />
+      <sub>Cloud Intern<br />Feb 2024 - Apr 2024</sub>
+    </td>
+    <td valign="top">
+      Deployed self-hosted applications on AWS and wrote structured deployment documentation.
+    </td>
+  </tr>
+</table>
+
+---
+
 ### main quests
 
 <table width="100%">
@@ -129,31 +172,6 @@ const vandana = {
   </tr>
 </table>
 
----
-
-### lore so far
-
-<table width="100%">
-  <tr>
-    <td width="25%" align="center"><b>2025 - Present</b></td>
-    <td><b>Lumen Technologies</b> - SAP HANA Cloud migration, AI-assisted workflows, ABAP documentation, and SAP assistant work.</td>
-  </tr>
-  <tr>
-    <td align="center"><b>2025</b></td>
-    <td><b>Full Circle Realty Co.</b> - React Native + TypeScript UI, Figma-to-mobile implementation, chatbot interface.</td>
-  </tr>
-  <tr>
-    <td align="center"><b>DevOps</b></td>
-    <td><b>Infraware.dev</b> - Automated 3-tier deployments, Dockerized WordPress, HTTPS setup, Ansible workflows.</td>
-  </tr>
-  <tr>
-    <td align="center"><b>Cloud</b></td>
-    <td><b>Adwitiyah Technology Services</b> - Self-hosted AWS deployments and process documentation.</td>
-  </tr>
-</table>
-
----
-
 ### side quests unlocked
 
 <p align="center">
@@ -165,4 +183,6 @@ const vandana = {
 
 ---
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vandanamv&label=profile%20views&color=6C63FF&style=flat-square" alt="Profile views" />
+</p>

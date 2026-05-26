@@ -1,4 +1,4 @@
-<h1 align="center">hey, i'm Vandana M V</h1>
+<h1 align="center">Hey, I'm Vandana M V</h1>
 
 <h3 align="center">frontend brain, AI curiosity, SAP by day</h3>
 

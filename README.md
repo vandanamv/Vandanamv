@@ -183,6 +183,4 @@ const vandana = {
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vandanamv&label=profile%20views&color=6C63FF&style=flat-square" alt="Profile views" />
-</p>
+

@@ -26,11 +26,24 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=900&color=6C63FF&center=true&vCenter=true&width=620&lines=crafting+clean+interfaces+where+AI,+data,+and+users+meet;building+frontend+systems+that+feel+easy+to+use;turning+complex+workflows+into+calm+screens" alt="Typing SVG" />
 </p>
 
-```txt
-currently: Software Applications Engineer @ Lumen Technologies
-vibe:     React + TypeScript + LLM interfaces + SAP automation
-mission:  make technical products feel less complicated
-```
+<table align="center">
+  <tr>
+    <td align="center"><b>role</b></td>
+    <td>Software Applications Engineer @ Lumen Technologies</td>
+  </tr>
+  <tr>
+    <td align="center"><b>craft</b></td>
+    <td>React + TypeScript interfaces for real-world workflows</td>
+  </tr>
+  <tr>
+    <td align="center"><b>edge</b></td>
+    <td>LLM apps, SAP automation, and cloud-backed products</td>
+  </tr>
+  <tr>
+    <td align="center"><b>goal</b></td>
+    <td>turn complex systems into screens people actually enjoy using</td>
+  </tr>
+</table>
 
 ---
 
